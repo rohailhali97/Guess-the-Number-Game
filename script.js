@@ -17,7 +17,7 @@ let guesses = [];
 // Variable for store the correct random number 
  let correctNumber = getRandomNumber();
  
-//test yy
+//test 99
 
 window.onload = function() {
     document.getElementById("number-submit").addEventListener("click", playGame);
